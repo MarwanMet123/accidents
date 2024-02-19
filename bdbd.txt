@@ -1,0 +1,7 @@
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+kafka-topics.bat --create --bootstrap-server localhost:9092 --topic test
+spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.2.4,org.apache.spark:spark-streaming-kafka-0-10_2.12:3.2.4,org.apache.kafka:kafka-clients:2.8.2 write-to-kafka.py
+spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.2.4,org.apache.spark:spark-streaming-kafka-0-10_2.12:3.2.4,org.apache.kafka:kafka-clients:2.8.2 spark-structure-streaming.py
+.\bin\windows\kafka-server-stop.bat .\config\server.properties
+.\bin\windows\zookeeper-server-stop.bat .\config\zookeeper.properties

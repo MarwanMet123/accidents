@@ -1,0 +1,6 @@
+"time","Day_of_week","Sex_of_driver","Type_of_vehicle","location","road_conditin","Weather_conditions","Type_of_collision","Cause_of_accident","Accident_severity"
+"14:40:00","Saturday","Male","Automobile","Office areas","Dry","Normal","Collision with animals","No priority to pedestrian","Serious Injury"
+"17:45:00","Thursday","Male","Public (> 45 seats)","Office areas","Dry","Normal","Collision with animals","No distancing","Slight Injury"
+"17:45:00","Thursday","Male","Lorry (41?100Q)","Office areas","Dry","Normal","Collision with animals","No priority to vehicle","Slight Injury"
+"17:45:00","Thursday","Male","Automobile","Office areas","Dry","Normal","Collision with animals","No distancing","Serious Injury"
+"22:45:00","Monday","Female","Lorry (11?40Q)","Office areas","Wet or damp","Raining","Collision with animals","No distancing","Serious Injury"

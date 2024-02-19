@@ -1,0 +1,6 @@
+"time","Day_of_week","Sex_of_driver","Type_of_vehicle","location","road_conditin","Weather_conditions","Type_of_collision","Cause_of_accident","Accident_severity"
+"17:30:00","Wednesday","Male","Automobile","Residential areas","Dry","Normal","Vehicle with vehicle collision","Other","Slight Injury"
+"17:20:00","Friday","Male","Automobile","Residential areas","Dry","Normal","Vehicle with vehicle collision","No priority to vehicle","Slight Injury"
+"17:20:00","Friday","Male","Lorry (41?100Q)"," Industrial areas","Dry","Normal","Collision with roadside-parked vehicles","Changing lane to the right","Slight Injury"
+"17:20:00","Friday","Male","Automobile","Residential areas","Dry","Normal","Collision with roadside-parked vehicles","Moving Backward","Serious Injury"
+"14:40:00","Saturday","Male","Public (13?45 seats)","Residential areas","Dry","Normal","Collision with animals","Changing lane to the left","Serious Injury"
